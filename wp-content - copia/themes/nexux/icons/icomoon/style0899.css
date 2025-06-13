@@ -1,0 +1,171 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon1950.eot?h73fmn');
+  src:  url('fonts/icomoon1950.eot?h73fmn#iefix') format('embedded-opentype'),
+    url('fonts/icomoon1950.ttf?h73fmn') format('truetype'),
+    url('fonts/icomoon1950.woff?h73fmn') format('woff'),
+    url('fonts/icomoon1950.svg?h73fmn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-check-2:before {
+  content: "\e92f";
+}
+.icon-arrow-right:before {
+  content: "\e900";
+}
+.icon-global:before {
+  content: "\e901";
+}
+.icon-dollar:before {
+  content: "\e902";
+}
+.icon-excel:before {
+  content: "\e903";
+}
+.icon-face:before {
+  content: "\e904";
+}
+.icon-facebook:before {
+  content: "\e905";
+}
+.icon-flare:before {
+  content: "\e906";
+}
+.icon-headphone:before {
+  content: "\e907";
+}
+.icon-ins:before {
+  content: "\e908";
+}
+.icon-mail-letter:before {
+  content: "\e909";
+}
+.icon-mark:before {
+  content: "\e90a";
+}
+.icon-more-user:before {
+  content: "\e90b";
+}
+.icon-node:before {
+  content: "\e90c";
+}
+.icon-quote:before {
+  content: "\e90d";
+}
+.icon-rail-star:before {
+  content: "\e90e";
+}
+.icon-reply:before {
+  content: "\e90f";
+}
+.icon-rocket:before {
+  content: "\e910";
+}
+.icon-search:before {
+  content: "\e911";
+}
+.icon-setting:before {
+  content: "\e912";
+}
+.icon-stack:before {
+  content: "\e913";
+}
+.icon-star:before {
+  content: "\e914";
+}
+.icon-thunder:before {
+  content: "\e915";
+}
+.icon-user:before {
+  content: "\e916";
+}
+.icon-user-circle:before {
+  content: "\e917";
+}
+.icon-user-plus:before {
+  content: "\e918";
+}
+.icon-wallet:before {
+  content: "\e919";
+}
+.icon-fan:before {
+  content: "\e91a";
+}
+.icon-arow-top:before {
+  content: "\e91b";
+}
+.icon-arrow-down:before {
+  content: "\e91c";
+}
+.icon-arrow-line:before {
+  content: "\e91d";
+}
+.icon-arrow-top-right:before {
+  content: "\e91e";
+}
+.icon-basketball:before {
+  content: "\e91f";
+}
+.icon-becon:before {
+  content: "\e920";
+}
+.icon-bell:before {
+  content: "\e921";
+}
+.icon-box-arrow-down:before {
+  content: "\e922";
+}
+.icon-box-transition:before {
+  content: "\e923";
+}
+.icon-calculator:before {
+  content: "\e924";
+}
+.icon-card-shop:before {
+  content: "\e925";
+}
+.icon-clock:before {
+  content: "\e926";
+}
+.icon-cole:before {
+  content: "\e927";
+}
+.icon-chart:before {
+  content: "\e928";
+}
+.icon-chart-right:before {
+  content: "\e929";
+}
+.icon-check:before {
+  content: "\e92a";
+}
+.icon-chervo-right:before {
+  content: "\e92b";
+}
+.icon-default:before {
+  content: "\e92c";
+}
+.icon-document:before {
+  content: "\e92d";
+}
+.icon-document-2:before {
+  content: "\e92e";
+}
