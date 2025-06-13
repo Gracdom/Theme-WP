@@ -1,0 +1,65 @@
+<svg width="30" height="32" viewBox="0 0 30 32" fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <g filter="url(#filter0_i_4071_813)">
+                                                        <path
+                                                            d="M15.0795 27.2011L22.4128 31.2011L29.7462 27.2011V17.8678L22.4128 22.5344L15.0795 17.8678V27.2011Z"
+                                                            fill="white" fill-opacity="0.02" />
+                                                        <path
+                                                            d="M15.0795 27.2011L22.4128 31.2011L29.7462 27.2011V17.8678L22.4128 22.5344L15.0795 17.8678V27.2011Z"
+                                                            fill="url(#paint0_linear_4071_813)" fill-opacity="0.2" />
+                                                        <path
+                                                            d="M0.412842 17.8678L7.74617 13.8678L15.0795 17.8678L7.74617 22.5344V31.2011L0.412842 27.2011V17.8678Z"
+                                                            fill="white" fill-opacity="0.02" />
+                                                        <path
+                                                            d="M0.412842 17.8678L7.74617 13.8678L15.0795 17.8678L7.74617 22.5344V31.2011L0.412842 27.2011V17.8678Z"
+                                                            fill="url(#paint1_linear_4071_813)" fill-opacity="0.2" />
+                                                        <path
+                                                            d="M22.4128 13.8678L15.0795 17.8678V9.20109L7.74617 4.53442L15.0795 0.534424L22.4128 4.53442V13.8678Z"
+                                                            fill="white" fill-opacity="0.02" />
+                                                        <path
+                                                            d="M22.4128 13.8678L15.0795 17.8678V9.20109L7.74617 4.53442L15.0795 0.534424L22.4128 4.53442V13.8678Z"
+                                                            fill="url(#paint2_linear_4071_813)" fill-opacity="0.2" />
+                                                    </g>
+                                                    <defs>
+                                                        <filter id="filter0_i_4071_813" x="0.412842" y="0.534424"
+                                                            width="29.3333" height="30.6667"
+                                                            filterUnits="userSpaceOnUse"
+                                                            color-interpolation-filters="sRGB">
+                                                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                            <feBlend mode="normal" in="SourceGraphic"
+                                                                in2="BackgroundImageFix" result="shape" />
+                                                            <feColorMatrix in="SourceAlpha" type="matrix"
+                                                                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                                                result="hardAlpha" />
+                                                            <feOffset />
+                                                            <feGaussianBlur stdDeviation="4.08" />
+                                                            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1"
+                                                                k3="1" />
+                                                            <feColorMatrix type="matrix"
+                                                                values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.2 0" />
+                                                            <feBlend mode="normal" in2="shape"
+                                                                result="effect1_innerShadow_4071_813" />
+                                                        </filter>
+                                                        <linearGradient id="paint0_linear_4071_813" x1="15.0795"
+                                                            y1="-14.2122" x2="15.0795" y2="31.2011"
+                                                            gradientUnits="userSpaceOnUse">
+                                                            <stop stop-color="#202356" offset="100%" />
+                                                            <stop offset="0.773658" stop-color="#1D2250"
+                                                                stop-opacity="0" />
+                                                        </linearGradient>
+                                                        <linearGradient id="paint1_linear_4071_813" x1="15.0795"
+                                                            y1="-14.2122" x2="15.0795" y2="31.2011"
+                                                            gradientUnits="userSpaceOnUse">
+                                                            <stop stop-color="#202356" offset="100%" />
+                                                            <stop offset="0.773658" stop-color="#1D2250"
+                                                                stop-opacity="0" />
+                                                        </linearGradient>
+                                                        <linearGradient id="paint2_linear_4071_813" x1="15.0795"
+                                                            y1="-14.2122" x2="15.0795" y2="31.2011"
+                                                            gradientUnits="userSpaceOnUse">
+                                                            <stop stop-color="#202356" offset="100%" />
+                                                            <stop offset="0.773658" stop-color="#1D2250"
+                                                                stop-opacity="0" />
+                                                        </linearGradient>
+                                                    </defs>
+                                                </svg>
